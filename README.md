@@ -17,7 +17,7 @@ Para o desenvolvimento deste projeto foi utilizado as seguintes bibliotecas:
       - Executar sem escuta de alterações no código: flutter pub run build_runner build
       - Executar com escuta de alterações no código: flutter pub run build_runner watch
 
-- [provider](flutter pub add provider)
+- [provider](https://pub.dev/packages/provider/install)
    Um wrapper em torno do InheritedWidget para torná-los mais fáceis de usar e mais reutilizáveis.
 
 
